@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @jimenezeljay
 - 🌱 I’m currently learning C++ and Linux.
-- 💞️ I’m looking to collaborate on any internship regarding AI, UI/UX, Product Management
+- 💞️ I’m looking to collaborate on any internship regarding computing skills and interpersonal skills
 - 📫 How to reach me: email: eljimenez610@gmail.com
 - 😄 Pronouns: ...
 -  ...
-
-# 💫 About Me:
+ # 💫 About Me:
 I'm currently working on obtaining by Computer Science B.S. Degree at Franciscan University!<br>I'm open to opportunities to learn and mentorship/guidance throughout my journey<br>I'm currently learn C++ as my first programming language and wanting to learn more in the future<br>I'm looking for help in learning about AI and UI/UX or even Product Management! <br>⚡ Fun fact:<br>I've Golfing for over 8 years now. I'm a huge musician, so I've played Trumpet, Ukulele, and Acoustic Guitar!
 
 
